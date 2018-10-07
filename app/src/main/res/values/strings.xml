@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Khulna Blood Management</string>
+    <string name="last_word">Want to be a Donor?? </string>
+    <string-array name="Blood_List">
+        <item>O(+)Positive</item>
+        <item>O(-)Negative</item>
+        <item>A(+)Positive</item>
+        <item>A(-)Negative</item>
+        <item>B(+)Positive</item>
+        <item>B(-)Negative</item>
+        <item>AB(+)Positive</item>
+        <item>AB(-)Negative</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "316584155810",
+    "firebase_url": "https://travelsofbangladesh.firebaseio.com",
+    "project_id": "travelsofbangladesh",
+    "storage_bucket": "travelsofbangladesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316584155810:android:032f097fb66cb7d1",
+        "android_client_info": {
+          "package_name": "com.rabbi.tarikul.travelsofbangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316584155810-j1mnaf62k1g1vf2kl5k95v2vi2bk1ljt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rabbi.tarikul.travelsofbangladesh",
+            "certificate_hash": "ed8e997e82abd4d760f3a582306270a46be04c17"
+          }
+        },
+        {
+          "client_id": "316584155810-3pqqgqf26bmmf0s1u9sa5e1cdd2orp42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUaePXgvu9V8dGQac6u22VowlTQHBJ1i4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316584155810-3pqqgqf26bmmf0s1u9sa5e1cdd2orp42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
